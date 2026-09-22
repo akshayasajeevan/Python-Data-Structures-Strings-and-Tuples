@@ -38,3 +38,10 @@ Using:
 
 ```python
 strM = "Python beginner tutorial"
+```
+## 👩‍💻 Author
+
+**Akshaya S**
+
+B.Sc. Computer Science Graduate  
+Aspiring Data Analyst
